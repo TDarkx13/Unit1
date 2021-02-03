@@ -1,6 +1,6 @@
 # Unit1
 Didier Dzib, Fernando Castillo, Miguel Bastarrachea
-Investigation.
+<br>Investigation.
 
 About algorithms
 Being superficial, only using general logic to connect the concepts, we can say that algorithms are involved in every single action in our dairy life, from when we awake in the morning till when we go to sleep; following the definition that is in the dictionary that is correct because those are defined like a systematical group of steps for doing something and that includes what do we often to do. Being more professionals, algorithms are solutions, in other words, these are the defined and analyzed steps for solve problems, for example applied to the industry can be the actions taken for get copper wires, templated glass, encrypted documents, etc. 
