@@ -16,7 +16,6 @@ Example: Know if the user is an adult ot not.
 If vEdad >= 21 Then
         MessageBox.Show("Es mayor de edad")
 Else
-
         MessageBox.Show("Es menor de edad")
 End If
 Multiple selective is used when we have various kinds of sentences to evaluate, it is denotated like “Sleect Case” we have a list of expressions for a case and a group of instructions if the condition given is in the list and with Else we can add another list with their respective onstructions.
