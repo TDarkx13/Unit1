@@ -1,0 +1,31 @@
+void main()
+{
+    int grades;
+    printf("Enter grade");
+    scanf("%d",&grades);
+    if(grades<0 || grades>10)
+    {
+        printf("Error");
+    }
+    else if(grades<7.00)
+    {
+        printf("6 Not competent(NC)");
+    }
+    else if(grades>=7.00 && grades<7.50)
+    {
+        printf("7 Basic (BU)");
+    }
+    else if(grades>=7.50 && grades<8.50)
+    {
+        printf("8 Advanced Basic (BA)");
+    }
+    else if(grades>=8.50 && grades<9.49)
+    {
+        printf("9 Independent (I)");
+    }
+    else
+    {
+        printf("10 Competent (C)");
+    }
+
+}
