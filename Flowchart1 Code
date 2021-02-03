@@ -1,8 +1,10 @@
+
 START
-int grades;
-    printf("Enter grade");
-    scanf("%d",&grades);
-    {
+int grade;
+    
+DO{
+    PRINT ("Enter grade")
+    READ grade
     if(grades<7.00)
     {
         printf("6 Not competent(NC)");
@@ -23,6 +25,5 @@ int grades;
     {
         printf("10 Competent (C)");
     }
-
 }
 END
