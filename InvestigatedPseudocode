@@ -1,4 +1,5 @@
-<b>Input 100  positive (>=0) numbers.  Add up the numbers, and print the total.</b>
+Input 100  positive (>=0) numbers.  Add up the numbers, and print the total.
+
 If a negative number is encountered, the program should terminate, and print the sum so far.
 
 		START
@@ -14,6 +15,7 @@ If a negative number is encountered, the program should terminate, and print the
 		display sum
     
     END
+    
     
 100 students sit a 'before' exam, and their marks can be assumed to be in the array b.  Later, they do an 'after' exam, and those marks are in a.
 Print the subscript number (i.e in range 1 to 100) of the student who:
