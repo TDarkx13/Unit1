@@ -1,0 +1,26 @@
+START
+
+int i = 1
+
+DO{		
+		PRINT "put your number"
+		READ NUMBER
+    
+		IF(NUMBER <= 9){
+		PRINT "ONE DIGIT";
+		}
+	ELSE{
+		IF(NUMBER >= 10 AND <= 99){
+		 PRINT "TWO DIGITS";
+     }
+  ELSE{
+    IF(NUMBER >= 100 AND <= 999{
+		 PRINT "TREE DIGITS";
+			}
+		}
+    
+		i = i + 1
+	
+	} WHILE (i <= NUMBER);
+  
+END
