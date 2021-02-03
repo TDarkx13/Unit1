@@ -1,0 +1,18 @@
+START
+
+int i=0;
+int credit card information
+
+DO{
+  READ credit card information
+  Validate "credit card information"
+  IF(Credit card information=valid)
+  {
+  Complete purchase
+  }
+ Else{
+  i = i + 1
+  }
+WHILE (i < 3)
+
+END
