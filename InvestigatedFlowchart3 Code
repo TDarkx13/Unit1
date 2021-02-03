@@ -1,0 +1,20 @@
+START
+  COUNT = 1, i = 1
+
+  IF{ (i <= 10)
+  ELSE STOP
+}
+
+  SUM = 0, J = 1
+
+  IF{ (j <= 10)
+  ELSE PRINT SUM
+}
+
+  SUM = SUM + COUNT
+  COUNT = COUNT + 1
+  J = J + 1 
+
+i = i + 1 
+
+END
