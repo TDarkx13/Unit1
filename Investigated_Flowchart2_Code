@@ -1,0 +1,18 @@
+START
+int Data_Plan_MB;
+int Data_Consumed_MB;
+DO{
+WHILE (Data_Plan_MB<=0);
+{
+  Print "Error"
+}
+END WHILE
+If (Data Consumed MB>Data Plan MB )
+  then (Total=.25*(Data Consumed MB - Data Plan MB));
+  {
+  print Total }
+Else {
+print "No extra cost";
+}
+}
+END
